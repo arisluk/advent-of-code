@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/arisluk/advent-of-code/2025/day6"
+	"github.com/arisluk/advent-of-code/2025/day7"
 )
 
 func main() {
-	fmt.Println(day6.Solve2())
+	fmt.Println(day7.Solve2())
 }
